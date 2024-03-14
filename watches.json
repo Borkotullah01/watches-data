@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 7",
+      "image": "https://example.com/apple_watch_series_7.jpg",
+      "price": 399.99
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "image": "https://example.com/samsung_galaxy_watch_4.jpg",
+      "price": 349.99
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "image": "https://example.com/fitbit_versa_3.jpg",
+      "price": 229.95
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 945",
+      "image": "https://example.com/garmin_forerunner_945.jpg",
+      "price": 599.99
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 5",
+      "image": "https://example.com/fossil_gen_5.jpg",
+      "price": 295.00
+    },
+    {
+      "id": 6,
+      "name": "Huawei Watch GT 2 Pro",
+      "image": "https://example.com/huawei_watch_gt_2_pro.jpg",
+      "price": 299.99
+    },
+    {
+      "id": 7,
+      "name": "TicWatch Pro 3",
+      "image": "https://example.com/ticwatch_pro_3.jpg",
+      "price": 299.99
+    },
+    {
+      "id": 8,
+      "name": "Amazfit GTS 2 Mini",
+      "image": "https://example.com/amazfit_gts_2_mini.jpg",
+      "price": 99.99
+    }
+  ]
